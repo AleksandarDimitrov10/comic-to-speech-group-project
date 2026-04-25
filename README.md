@@ -7,7 +7,7 @@ AI-powered comic book narration system that transforms visual comics into immers
 
 This was a group project for the Software Engineering course. The original repository was developed collaboratively by the project team. This fork is used as a portfolio version to present the project and document my involvement.
 
-Although my contributions were not committed under my own GitHub account, I contributed during the development process through local work, testing, integration support, and collaboration with teammates.
+Some of my contributions were made through local collaboration and integration work rather than commits under my own GitHub account.
 
 My main contributions included:
 
