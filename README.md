@@ -228,3 +228,5 @@ uv run pytest tests/test_extreme_cases.py::test_ocr_with_actual_black_image -v
 
 ## License
 Educational purpose only.
+
+d
