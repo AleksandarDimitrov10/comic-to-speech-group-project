@@ -1,6 +1,24 @@
+
 # Comic-to-Speech 🎭📚🔊
 
 AI-powered comic book narration system that transforms visual comics into immersive audiobook experiences using GPT-4 Vision, Google Cloud TTS, and Neural Machine Translation.
+
+# My Contribution
+
+This was a group project for the Software Engineering course. The original repository was developed collaboratively by the project team. This fork is used as a portfolio version to present the project and document my involvement.
+
+Although my contributions were not committed under my own GitHub account, I contributed during the development process through local work, testing, integration support, and collaboration with teammates.
+
+My main contributions included:
+
+- Helped develop and improve unit and integration tests for the comic-to-speech pipeline.
+- Worked on the AI translation model, including testing and supporting the English-to-Dutch translation component.
+- Helped integrate and validate changes across the OCR/narration, translation, and text-to-speech stages.
+- Contributed to frontend and backend work, mainly around interface behavior, upload flow, and pipeline connection.
+- Assisted with OCR-related debugging and system behavior checks.
+- Helped improve documentation, project structure, and final demo preparation.
+
+Because this was a collaborative group project, the commit history may not fully reflect every individual contribution. The description above summarizes my actual involvement in the project.
 
 ## Features
 
@@ -42,8 +60,8 @@ graph TD
 
 ### 1. Setup
 ```bash
-git clone https://github.com/EliasSchlie/comic-to-speech
-cd comic-to-speech
+git clone https://github.com/AleksandarDimitrov10/comic-to-speech-group-project
+cd comic-to-speech-group-project
 
 # Setup credentials
 cp path/to/your/credentials.json credentials.json
